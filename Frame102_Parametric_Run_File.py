@@ -11,8 +11,7 @@ import time
 # -------------------------------------------------------------------------
 # Code          : PFN - 8B - 2
 # Explanation   : Poor-Frame-Emergent Beam from Bayrakli/Izmir set
-# Source        : Building information from Bekir Ozer Ay (METU), from Bayrakli/Izmir, is used for generating frames,Ref:226431 / Ax 8. 
-#                       Bal et al., 2008 is also used for defining parametric ranges. 
+# Source        : Building information taken parametrically from Bal et al., 2008 - cross-checked with data from Bekir Ozer Ay (METU).
 # Number of Bays: 5 Bays
 # Number of Str.: 8-Storey
 # Author        : Dr. Eleni Smyrou (e.smyrou@pl.hanze.nl)
