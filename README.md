@@ -1,7 +1,6 @@
 # 3ECEES_Parametric_Frame_Runs
 
-This repository contains OpenSeesPy input files for 4 8-storey RC frames, representing the collapsed buildings in Bayrakli, Izmir, Turkey. 
-The structural properties are parametrically varied using the Bal et al., 2008 study :
+This repository contains OpenSeesPy input files for 4 8-storey RC frames. The frames are used for representing the collapsed buildings in Bayrakli, Izmir, Turkey. The structural properties are parametrically varied using the Bal et al., 2008 study :
 
 "Bal IE, Crowley H, Pinho R. and Gulay FG. (2008), "Detailed assessment of structural characteristics of Turkish RC building stock for loss assessment models",
 Soil Dynamics and Earthquake Engineering.
